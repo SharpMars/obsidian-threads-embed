@@ -1,0 +1,10 @@
+{
+	"id": "threads-embed",
+	"name": "Threads Embed",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Embeds posts from Threads.",
+	"author": "SharpMars",
+	"authorUrl": "https://github.com/SharpMars",
+	"isDesktopOnly": false
+}
